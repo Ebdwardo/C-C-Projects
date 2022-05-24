@@ -1,0 +1,5 @@
+# ninja log v5
+1	272	6748854476835323	CMakeFiles/Project_2.dir/inputbuf.cc.obj	ef288683d93ea274
+8	318	6748854477295322	CMakeFiles/Project_2.dir/lexer.cc.obj	99387c289bda438f
+9	540	6748854479510316	CMakeFiles/Project_2.dir/parser.cc.obj	38ff4ad5ae8a865d
+541	664	6748854480730316	Project_2.exe	ffb0400e85eeda5b

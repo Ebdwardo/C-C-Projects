@@ -1,0 +1,6 @@
+# ninja log v5
+0	235	6748858550174898	CMakeFiles/Project_4.dir/compiler.cc.obj	1cd7bde0b24bb24a
+10	382	6748858551639877	CMakeFiles/Project_4.dir/lexer.cc.obj	b2fa4a5e3c2dca42
+8	319	6748858551009872	CMakeFiles/Project_4.dir/inputbuf.cc.obj	266da8d9faf0c997
+12	509	6748858552904877	CMakeFiles/Project_4.dir/Parser.cpp.obj	99b57ae1c6a03bc7
+510	626	6748858554049876	Project_4.exe	3f45bdbe5a98d1de
